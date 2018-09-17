@@ -1,4 +1,4 @@
-# DmxPy - Java Controller for USB - DMX devices
+# DmxJava - Java Controller for USB - DMX devices
 
 This is a crappy attempt to port [DmxPy](https://github.com/davepaul0/DmxPy) to Java.
 

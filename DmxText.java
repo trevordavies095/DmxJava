@@ -1,4 +1,4 @@
-public DmxTest {
+public class DmxTest {
 	public static void main(String[] args) {
 		// Local constants
 		
